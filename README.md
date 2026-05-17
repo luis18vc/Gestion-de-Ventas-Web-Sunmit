@@ -12,7 +12,7 @@ Un sistema web integral para la gestión y control de pedidos diseñado para **S
 
 * **Gestión de Pedidos:** Creación, lectura, actualización y eliminación (CRUD) de pedidos de prendas de vestir.
 * **Carrito de Compras:** Interfaz dinámica para la selección de productos y cálculo de totales.
-* **Facturación Electrónica:** Integración con la **API de la SUNAT** para la validación y gestión de datos fiscales (RUC/DNI) en el proceso de venta.
+* **Facturación Electrónica:** Integración con una **API** de datos externos para la validación y gestión de datos (RUC/DNI) en el proceso de venta.
 * **Diseño Responsivo:** Interfaz de usuario moderna y adaptable a múltiples dispositivos utilizando el framework CSS Bulma.
 * **Despliegue en la Nube:** Arquitectura preparada para entornos Cloud, garantizando alta disponibilidad.
 
