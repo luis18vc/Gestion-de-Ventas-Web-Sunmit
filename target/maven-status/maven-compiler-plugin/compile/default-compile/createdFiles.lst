@@ -1,0 +1,16 @@
+Entity\Cliente.class
+Controller\ControllerCerrarSesion.class
+Entity\Pedido.class
+Controller\ControllerArticulo.class
+Controller\ControllerPedido.class
+Entity\Usuarios.class
+Controller\ControllerCliente.class
+Connection\ConexionBD.class
+Entity\DetallePedido.class
+Entity\Articulo.class
+com\tiendaropa\tiendaropa\JAXRSConfiguration.class
+Controller\ControllerProducto.class
+Controller\ControllerLogin.class
+Entity\Producto.class
+com\tiendaropa\tiendaropa\resources\JavaEE8Resource.class
+Controller\ControllerRegister.class
